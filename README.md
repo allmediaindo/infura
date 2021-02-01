@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require alllmediaindo/infura
+$ composer require allmediaindo/infura
 ```
 
 ## Usage
